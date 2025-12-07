@@ -1,0 +1,1 @@
+🌐️🖼️🎦️🌐️ The official source repository for the website of the NetM project, an alternative to Google's WebP and WebM file formats (NetP is an alternative to WebP, while NetV is an alternative to WebM, NetM is the name of the entire suite, and not for the video format)
