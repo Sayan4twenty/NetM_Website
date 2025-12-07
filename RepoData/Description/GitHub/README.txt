@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌐️🖼️🎦️🌐️ The official source repository for the website of the NetM project, an alternative to Google's WebP and WebM file formats (NetP is an alternative to WebP, while NetV is an alternative to WebM, NetM is the name of the entire suite, and not for the video format)
